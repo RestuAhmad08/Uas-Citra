@@ -1,0 +1,1 @@
+Assalamu’alaikum warahmatullahi wabarakatuh, nama saya Restu sayidina ahmad, dan saya akan mendemokan sistem yang saya buat untuk tugas mata kuliah Pengolahan Citra. Sistem ini adalah pendeteksi objek real-time berbasis kamera pengguna, yang terinspirasi dari web YOLOv12.
