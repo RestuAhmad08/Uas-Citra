@@ -9,4 +9,4 @@ OpenCV: Digunakan untuk mengakses kamera secara real-time dan menangkap frame vi
 Tkinter: Digunakan untuk membuat antarmuka grafis berupa jendela deteksi dengan tombol start dan stop.
 
 Berikut Video Demo untuk Programnya 
-https://drive.google.com/file/d/10CPFJ4B9rx7cN9yPo9PipOsplU4LVEIP/view?usp=sharing
+https://drive.google.com/file/d/1lokYqgzYUqg2pT_7SlRV03EN0-f2MurJ/view?usp=sharing
